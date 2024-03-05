@@ -1,3 +1,20 @@
+Project Tic Tac Toe
+
+Day 1
+Sqaure component
+board component
+useGameHistory
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
